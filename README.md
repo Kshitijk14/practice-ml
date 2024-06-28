@@ -7,7 +7,7 @@ py -m venv env
 ```
 
 ```
-env\Scripts\activate
+.env\Scripts\activate
 ```
 
 ```
