@@ -3,3 +3,4 @@ scikit-learn
 matplotlib
 word2number
 joblib
+xgboost
