@@ -3,4 +3,5 @@ scikit-learn
 matplotlib
 word2number
 joblib
+seaborn
 xgboost
